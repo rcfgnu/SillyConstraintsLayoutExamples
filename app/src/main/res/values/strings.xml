@@ -1,3 +1,10 @@
 <resources>
   <string name="app_name">Silly Constraints Layout Examples</string>
+  <string name="animate">Animate</string>
+  <string name="color">Colors:</string>
+  <string name="selected">Selected:</string>
+  <string name="life_is_great">Life is Great and Everything Will Be Ok...</string>
+  <string name="kotlin_is_here">Kotlin is Here!</string>
+  <string name="yeah">Yeah!</string>
+  <string name="button">Button</string>
 </resources>
